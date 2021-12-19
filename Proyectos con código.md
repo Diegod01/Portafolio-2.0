@@ -1,10 +1,6 @@
-## En este 
+## En este archivo están los proyectos que he hecho con código mayoritariamente Python, en Google colab 
 
-#This is my portfolio upgrade
+## https://github.com/Diegod01/Portafolio-Portfolio
 
-## Proyectos con código: https://github.com/Diegod01/Portafolio-Portfolio
-## también puedes verlo en mi perfil: https://github.com/Diegod01
 
-##Proyectos sin código (con código):
-Pronto
 
