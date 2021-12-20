@@ -2,3 +2,5 @@
 
 [![IMG-20211220-115445.jpg](https://i.postimg.cc/Y28kyF3h/IMG-20211220-115445.jpg)](https://postimg.cc/XXZTrptb)
 ### Etamos viendo las primeras cinco filas y sus cinco columnas
+
+###Con Zoho analytics tenemos la posibilidad de visualizar gráficas en un instante y descubrir valor dentro de los datos, auqu un ejemplo:
