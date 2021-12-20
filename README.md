@@ -1,4 +1,4 @@
-# Benvenido a mi portafolio de proyectos, esta es una guía para ayudarte.
+# Bienvenido a mi portafolio de proyectos, esta es una guía para ayudarte.
 ## Debes clickear en el botón 'view code' o 'ver código' en celular, si estás en PC apareceran las carpetas de "proyectos con código" y "proyectos sin código"
 
 
