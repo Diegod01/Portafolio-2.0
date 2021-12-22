@@ -16,3 +16,6 @@
 
 ## Podemos utilizar un grafico de puntos:
 ## [![IMG-20211222-200339.jpg](https://i.postimg.cc/dVZqWrHT/IMG-20211222-200339.jpg)](https://postimg.cc/Xr3SqG0V)
+
+## Vamos a visualizar la variable 'estados' en forma de gráfico de torta:
+## [![IMG-20211222-201331.jpg](https://i.postimg.cc/zGNrk6g4/IMG-20211222-201331.jpg)](https://postimg.cc/ykLt1fnT)
