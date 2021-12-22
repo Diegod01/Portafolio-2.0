@@ -19,3 +19,9 @@
 
 ## Vamos a visualizar la variable 'estados' en forma de gráfico de torta:
 ## [![IMG-20211222-201331.jpg](https://i.postimg.cc/zGNrk6g4/IMG-20211222-201331.jpg)](https://postimg.cc/ykLt1fnT)
+
+## Ahora visualizamos los productos por categoría:
+## [![IMG-20211222-201540.jpg](https://i.postimg.cc/bJDWP9nQ/IMG-20211222-201540.jpg)](https://postimg.cc/KkbJrLJz)
+
+## Looker nos da la posibilidad de crear dashboards como el siguiente:
+## [![IMG-20211222-201712.jpg](https://i.postimg.cc/xCzxhTr5/IMG-20211222-201712.jpg)](https://postimg.cc/G8bxsRmT)
