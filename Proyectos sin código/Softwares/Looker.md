@@ -25,3 +25,4 @@
 
 ## Looker nos da la posibilidad de crear dashboards como el siguiente:
 ## [![IMG-20211222-201712.jpg](https://i.postimg.cc/xCzxhTr5/IMG-20211222-201712.jpg)](https://postimg.cc/G8bxsRmT)
+## [![IMG-20211222-201827.jpg](https://i.postimg.cc/zGQkNZFc/IMG-20211222-201827.jpg)](https://postimg.cc/tsh6dcf3)
