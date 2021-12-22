@@ -7,3 +7,6 @@
 
 ## Vamos a visualizar los productos:
 ## [![IMG-20211222-195506.jpg](https://i.postimg.cc/9MGbGktL/IMG-20211222-195506.jpg)](https://postimg.cc/VrkXwDht)
+
+## Podemos visualizar de diferentes formas:
+## [![IMG-20211222-195705.jpg](https://i.postimg.cc/kGWhj4NP/IMG-20211222-195705.jpg)](https://postimg.cc/xNTR89F6)
