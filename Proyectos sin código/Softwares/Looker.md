@@ -34,6 +34,7 @@
 ## [![IMG-20211222-202647.jpg](https://i.postimg.cc/9QBrPGrt/IMG-20211222-202647.jpg)](https://postimg.cc/YvhrMLNh)
 ## [![IMG-20211222-202828.jpg](https://i.postimg.cc/J0JhsXfX/IMG-20211222-202828.jpg)](https://postimg.cc/wRqzP1Tx)
 ## [![IMG-20211222-203014.jpg](https://i.postimg.cc/c1VmPNTk/IMG-20211222-203014.jpg)](https://postimg.cc/9zYZqK6y)
-
+## [![IMG-20211222-203340.jpg](https://i.postimg.cc/ydh1BKch/IMG-20211222-203340.jpg)](https://postimg.cc/ZBRtF1f0)
+ 
 ## Con Looker podemos ver también el tráfico web:
 ## [![IMG-20211222-203128.jpg](https://i.postimg.cc/pL1y1PJp/IMG-20211222-203128.jpg)](https://postimg.cc/JsZ1sVgL)
