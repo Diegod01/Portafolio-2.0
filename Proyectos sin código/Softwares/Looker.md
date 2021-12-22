@@ -5,3 +5,5 @@
 ## El dataset que usaremos será este:
 ## [![IMG-20211222-194319.jpg](https://i.postimg.cc/0yq4FprM/IMG-20211222-194319.jpg)](https://postimg.cc/CzmJfnGS)
 
+## Vamos a visualizar los productos:
+## [![IMG-20211222-195506.jpg](https://i.postimg.cc/9MGbGktL/IMG-20211222-195506.jpg)](https://postimg.cc/VrkXwDht)
