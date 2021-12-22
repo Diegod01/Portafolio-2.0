@@ -13,3 +13,6 @@
 
 ## En este grafico de línea quiere resaltar que en Looker se puede obtener información detallada al pasar con el mouse sobre una zona:
 [![IMG-20211222-195811.jpg](https://i.postimg.cc/C531Cvhx/IMG-20211222-195811.jpg)](https://postimg.cc/Wq7TTwqB)
+
+## Podemos utilizar un grafico de puntos:
+## [![IMG-20211222-200339.jpg](https://i.postimg.cc/dVZqWrHT/IMG-20211222-200339.jpg)](https://postimg.cc/Xr3SqG0V)
