@@ -26,3 +26,9 @@
 ## Looker nos da la posibilidad de crear dashboards como el siguiente:
 ## [![IMG-20211222-201712.jpg](https://i.postimg.cc/xCzxhTr5/IMG-20211222-201712.jpg)](https://postimg.cc/G8bxsRmT)
 ## [![IMG-20211222-201827.jpg](https://i.postimg.cc/zGQkNZFc/IMG-20211222-201827.jpg)](https://postimg.cc/tsh6dcf3)
+
+## Podemos ver datos generales sobre el dataset:
+## [![IMG-20211222-202518.jpg](https://i.postimg.cc/3NyKPG86/IMG-20211222-202518.jpg)](https://postimg.cc/GTCwDHsJ)
+
+## Otras opciones de visualización: 
+## [![IMG-20211222-202647.jpg](https://i.postimg.cc/9QBrPGrt/IMG-20211222-202647.jpg)](https://postimg.cc/YvhrMLNh)
