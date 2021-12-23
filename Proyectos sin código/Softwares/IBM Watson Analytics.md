@@ -5,7 +5,6 @@
 ## [![IMG-20211223-172542.jpg](https://i.postimg.cc/sfHq6D7L/IMG-20211223-172542.jpg)](https://postimg.cc/vD90DyP7)
 
 ## Podemos hacer querys en el dataset y ver las columnas que queramos:
-## [![IMG-20211223-184908.jpg](https://i.postimg.cc/9QKYrbrm/IMG-20211223-184908.jpg)](https://postimg.cc/zywgQnC6)
 ## [![IMG-20211223-183624.jpg](https://i.postimg.cc/Pq29gmPm/IMG-20211223-183624.jpg)](https://postimg.cc/xkN6HNGC)
 
 ## Podemos visualizar los datos rápidamente:
