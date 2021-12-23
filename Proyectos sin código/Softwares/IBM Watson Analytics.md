@@ -5,7 +5,7 @@
 ## [![IMG-20211223-172542.jpg](https://i.postimg.cc/sfHq6D7L/IMG-20211223-172542.jpg)](https://postimg.cc/vD90DyP7)
 
 ## Podemos seleccionar las columnas que queramos:
-## [![Screenshot-2021-12-23-12-26-36-672-com-google-android-youtube.jpg](https://i.postimg.cc/bJmB7S9S/Screenshot-2021-12-23-12-26-36-672-com-google-android-youtube.jpg)](https://postimg.cc/TLW0mwST)
+
 
 ## Podemos hacer querys en el dataset y ver las columnas que queramos:
 ## [![IMG-20211223-183624.jpg](https://i.postimg.cc/Pq29gmPm/IMG-20211223-183624.jpg)](https://postimg.cc/xkN6HNGC)
