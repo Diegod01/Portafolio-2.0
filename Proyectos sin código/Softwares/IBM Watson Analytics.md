@@ -12,3 +12,6 @@
 
 ## Podemos ver la tabla por año
 ## [![IMG-20211223-174430.jpg](https://i.postimg.cc/fTnz2Kxp/IMG-20211223-174430.jpg)](https://postimg.cc/F1pX10CV)
+
+## Podemos visualizar de esta forma: 
+## [![IMG-20211223-183122.jpg](https://i.postimg.cc/g0ZGdtbv/IMG-20211223-183122.jpg)](https://postimg.cc/JyMf5qnn)
