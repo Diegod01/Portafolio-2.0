@@ -32,3 +32,6 @@
 
 ## Podemos crear parejas con este Interfaz:
 ## [![IMG-20211223-200618.jpg](https://i.postimg.cc/DwFyftKQ/IMG-20211223-200618.jpg)](https://postimg.cc/567MnKyj)
+
+## Las parejas creadas:
+## [![IMG-20211223-200634.jpg](https://i.postimg.cc/C5HXcr6Y/IMG-20211223-200634.jpg)](https://postimg.cc/GTtX2KCS)
