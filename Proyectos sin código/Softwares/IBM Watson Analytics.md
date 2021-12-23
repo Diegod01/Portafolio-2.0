@@ -8,7 +8,7 @@
 ## [![IMG-20211223-172813.jpg](https://i.postimg.cc/fyCyxSJB/IMG-20211223-172813.jpg)](https://postimg.cc/n9snxzKD)
 
 ## Podemos ver específicamente la tabla que queramos:
-## [![IMG-20211223-174055.jpg](https://i.postimg.cc/Jhc4ZByv/IMG-20211223-174055.jpg)](https://postimg.cc/NyFcwFkk)
+## [![IMG-20211223-182820.jpg](https://i.postimg.cc/287mSLtK/IMG-20211223-182820.jpg)](https://postimg.cc/D80RC0nr)
 
 ## Podemos ver la tabla por año
 ## [![IMG-20211223-174430.jpg](https://i.postimg.cc/fTnz2Kxp/IMG-20211223-174430.jpg)](https://postimg.cc/F1pX10CV)
