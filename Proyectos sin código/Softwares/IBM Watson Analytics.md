@@ -29,3 +29,6 @@
 ## [![IMG-20211223-184405.jpg](https://i.postimg.cc/G2b0wC0V/IMG-20211223-184405.jpg)](https://postimg.cc/2q99hgS7)
 ## [![IMG-20211223-185125.jpg](https://i.postimg.cc/1zZ2wQzX/IMG-20211223-185125.jpg)](https://postimg.cc/SnDgbHCb)
 ## [![IMG-20211223-185208.jpg](https://i.postimg.cc/Fzp248Fs/IMG-20211223-185208.jpg)](https://postimg.cc/N2yN8NrW)
+
+## Podemos crear parejas con este Interfaz:
+## [![IMG-20211223-200618.jpg](https://i.postimg.cc/DwFyftKQ/IMG-20211223-200618.jpg)](https://postimg.cc/567MnKyj)
