@@ -3,3 +3,6 @@
 
 ## El dataset que usaremos será este:
 ## [![IMG-20211223-172542.jpg](https://i.postimg.cc/hvzxPjXv/IMG-20211223-172542.jpg)](https://postimg.cc/K3b40mrh)
+
+## Podemos visualizar los datos rápidamente:
+## [![IMG-20211223-172813.jpg](https://i.postimg.cc/fyCyxSJB/IMG-20211223-172813.jpg)](https://postimg.cc/n9snxzKD)
