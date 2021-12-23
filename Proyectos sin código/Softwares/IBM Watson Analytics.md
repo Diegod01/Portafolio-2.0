@@ -4,11 +4,11 @@
 ## El dataset que usaremos será este:
 ## [![IMG-20211223-172542.jpg](https://i.postimg.cc/sfHq6D7L/IMG-20211223-172542.jpg)](https://postimg.cc/vD90DyP7)
 
-## Podemos visualizar los datos rápidamente:
-## [![IMG-20211223-172813.jpg](https://i.postimg.cc/fyCyxSJB/IMG-20211223-172813.jpg)](https://postimg.cc/n9snxzKD)
-
 ## Podemos hacer querys en el dataset y ver las columnas que queramos:
 ## [![IMG-20211223-183624.jpg](https://i.postimg.cc/Pq29gmPm/IMG-20211223-183624.jpg)](https://postimg.cc/xkN6HNGC)
+
+## Podemos visualizar los datos rápidamente:
+## [![IMG-20211223-172813.jpg](https://i.postimg.cc/fyCyxSJB/IMG-20211223-172813.jpg)](https://postimg.cc/n9snxzKD)
 
 ## Podemos ver específicamente la tabla que queramos:
 ## [![IMG-20211223-182820.jpg](https://i.postimg.cc/287mSLtK/IMG-20211223-182820.jpg)](https://postimg.cc/D80RC0nr)
