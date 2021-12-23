@@ -7,7 +7,7 @@
 ## Podemos seleccionar las columnas que queramos:
 ## [![IMG-20211223-184908.jpg](https://i.postimg.cc/J4MQNzN9/IMG-20211223-184908.jpg)](https://postimg.cc/rzZWccYJ)
 
-## Podemos hacer querys en el dataset y ver las columnas que queramos:
+## Podemos hacer querys en el dataset y ver los datos que queramos:
 ## [![IMG-20211223-183624.jpg](https://i.postimg.cc/Pq29gmPm/IMG-20211223-183624.jpg)](https://postimg.cc/xkN6HNGC)
 
 ## Podemos visualizar los datos rápidamente:
