@@ -18,3 +18,6 @@
 
 ## Podemos visualizar de esta forma: 
 ## [![IMG-20211223-183122.jpg](https://i.postimg.cc/g0ZGdtbv/IMG-20211223-183122.jpg)](https://postimg.cc/JyMf5qnn)
+
+## Podemos visualizar la relación entre los datos:
+## [![IMG-20211223-184150.jpg](https://i.postimg.cc/sXprtBCy/IMG-20211223-184150.jpg)](https://postimg.cc/Ppr9D5qF)
