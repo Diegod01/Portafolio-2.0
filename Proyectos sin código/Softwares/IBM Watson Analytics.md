@@ -23,6 +23,6 @@
 ## [![IMG-20211223-184150.jpg](https://i.postimg.cc/sXprtBCy/IMG-20211223-184150.jpg)](https://postimg.cc/Ppr9D5qF)
 
 ## Podemos visualizar los datos en general:
-## [![IMG-20211223-184405.jpg](https://i.postimg.cc/GpFgRvtM/IMG-20211223-184405.jpg)](https://postimg.cc/yJNyXgF9)
-## [![IMG-20211223-185125.jpg](https://i.postimg.cc/0yy9bGhB/IMG-20211223-185125.jpg)](https://postimg.cc/MvNCLB67)
+## [![IMG-20211223-184405.jpg](https://i.postimg.cc/G2b0wC0V/IMG-20211223-184405.jpg)](https://postimg.cc/2q99hgS7)
+## [![IMG-20211223-185125.jpg](https://i.postimg.cc/bJRhsvHq/IMG-20211223-185125.jpg)](https://postimg.cc/Kk4VWxHW)
 ## [![IMG-20211223-185208.jpg](https://i.postimg.cc/Fzp248Fs/IMG-20211223-185208.jpg)](https://postimg.cc/N2yN8NrW)
