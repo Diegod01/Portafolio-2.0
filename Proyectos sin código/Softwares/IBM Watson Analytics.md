@@ -5,6 +5,7 @@
 ## [![IMG-20211223-172542.jpg](https://i.postimg.cc/sfHq6D7L/IMG-20211223-172542.jpg)](https://postimg.cc/vD90DyP7)
 
 ## Podemos hacer querys en el dataset y ver las columnas que queramos:
+## [![IMG-20211223-184908.jpg](https://i.postimg.cc/9QKYrbrm/IMG-20211223-184908.jpg)](https://postimg.cc/zywgQnC6)
 ## [![IMG-20211223-183624.jpg](https://i.postimg.cc/Pq29gmPm/IMG-20211223-183624.jpg)](https://postimg.cc/xkN6HNGC)
 
 ## Podemos visualizar los datos rápidamente:
@@ -21,3 +22,8 @@
 
 ## Podemos visualizar la relación entre los datos:
 ## [![IMG-20211223-184150.jpg](https://i.postimg.cc/sXprtBCy/IMG-20211223-184150.jpg)](https://postimg.cc/Ppr9D5qF)
+
+## Podemos visualizar los datos en general:
+## [![IMG-20211223-184405.jpg](https://i.postimg.cc/GpFgRvtM/IMG-20211223-184405.jpg)](https://postimg.cc/yJNyXgF9)
+## [![IMG-20211223-185125.jpg](https://i.postimg.cc/0yy9bGhB/IMG-20211223-185125.jpg)](https://postimg.cc/MvNCLB67)
+## [![IMG-20211223-185208.jpg](https://i.postimg.cc/Fzp248Fs/IMG-20211223-185208.jpg)](https://postimg.cc/N2yN8NrW)
