@@ -8,3 +8,6 @@
 
 ## Una visualización de la categoría de cada película:
 ## [![IMG-20211224-113304.jpg](https://i.postimg.cc/dtmVHFZb/IMG-20211224-113304.jpg)](https://postimg.cc/XpqWqT8L)
+
+## O podemos verlo de mayor a menor:
+## [![IMG-20211224-113644.jpg](https://i.postimg.cc/L53PtbdL/IMG-20211224-113644.jpg)](https://postimg.cc/CnddYJxx)
