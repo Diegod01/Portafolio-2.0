@@ -31,3 +31,6 @@
 
 ## Podemos usar gráficos de torta:
 ## [![IMG-20211224-134324.jpg](https://i.postimg.cc/SRM4tmyX/IMG-20211224-134324.jpg)](https://postimg.cc/vxbC4FxM)
+
+## Gráficos de burbuja:
+## [![IMG-20211224-134641.jpg](https://i.postimg.cc/XqkW0QC3/IMG-20211224-134641.jpg)](https://postimg.cc/rRs31GjY)
