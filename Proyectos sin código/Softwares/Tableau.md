@@ -40,5 +40,5 @@
 
 ## Podemos usar una gráfica rellena:
 ## [![IMG-20211224-135433.jpg](https://i.postimg.cc/Sx4cfrq4/IMG-20211224-135433.jpg)](https://postimg.cc/8jyF1LjX)
-
+## [![IMG-20211224-140038.jpg](https://i.postimg.cc/J0TS5nHV/IMG-20211224-140038.jpg)](https://postimg.cc/FkLP9hxD)
 
