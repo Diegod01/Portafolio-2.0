@@ -7,3 +7,6 @@
 
 ## Podemos visualizar rápido datos cuantitativos:
 ## [![IMG-20211224-175351.jpg](https://i.postimg.cc/XqTMxbw2/IMG-20211224-175351.jpg)](https://postimg.cc/rRCYF7ZW)
+
+## Podemos visualizar varios tipos de gráficas como mapas o gráficas de barras:
+## [![IMG-20211224-175544.jpg](https://i.postimg.cc/s1F87Jrq/IMG-20211224-175544.jpg)](https://postimg.cc/FkZDQ31V)
