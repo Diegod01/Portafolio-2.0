@@ -38,3 +38,7 @@
 ## Podemos usar gráficos para ver las ganancias en distintos años:
 ## [![IMG-20211224-135105.jpg](https://i.postimg.cc/bY73tkB0/IMG-20211224-135105.jpg)](https://postimg.cc/8sbR8JDs)
 
+## Podemos usar una gráfica rellena:
+## [![IMG-20211224-135433.jpg](https://i.postimg.cc/Sx4cfrq4/IMG-20211224-135433.jpg)](https://postimg.cc/8jyF1LjX)
+
+
