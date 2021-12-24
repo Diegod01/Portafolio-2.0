@@ -25,3 +25,6 @@
 ## [![IMG-20211224-132810.jpg](https://i.postimg.cc/rmcvjqvF/IMG-20211224-132810.jpg)](https://postimg.cc/NyJJfvsW)
 ## [![IMG-20211224-132840.jpg](https://i.postimg.cc/TPyrsmvt/IMG-20211224-132840.jpg)](https://postimg.cc/mcszzPD9)
 
+## Podemos usar una gráfica de Gantt 
+## [![IMG-20211224-134038.jpg](https://i.postimg.cc/rm3PDW5b/IMG-20211224-134038.jpg)](https://postimg.cc/wy5VP1fc)
+## [![IMG-20211224-134148.jpg](https://i.postimg.cc/KjJjxZ60/IMG-20211224-134148.jpg)](https://postimg.cc/BPP4CGQF)
