@@ -15,9 +15,13 @@
 ## Otro forma de ver las categorías es poner categorías generales y ubicar las películas que entran en cada una:
 ## [![IMG-20211224-113848.jpg](https://i.postimg.cc/kGJGmMZR/IMG-20211224-113848.jpg)](https://postimg.cc/tZcpdb99)
 
+## Podemos ver la cantidad de idiomas en los que se ven las películas: 
+## [![IMG-20211224-133428.jpg](https://i.postimg.cc/kGjG91xK/IMG-20211224-133428.jpg)](https://postimg.cc/30vYFZfx)
+
 ## Podemos usar un grafico de puntos:
 ## [![IMG-20211224-132257.jpg](https://i.postimg.cc/7L47YRFT/IMG-20211224-132257.jpg)](https://postimg.cc/YvXjddqp)
 
 ## Podemos usar gráficos de Pareto:
 ## [![IMG-20211224-132810.jpg](https://i.postimg.cc/rmcvjqvF/IMG-20211224-132810.jpg)](https://postimg.cc/NyJJfvsW)
 ## [![IMG-20211224-132840.jpg](https://i.postimg.cc/TPyrsmvt/IMG-20211224-132840.jpg)](https://postimg.cc/mcszzPD9)
+
