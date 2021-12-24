@@ -14,3 +14,8 @@
 
 ## Otro forma de ver las categorías es poner categorías generales y ubicar las películas que entran en cada una:
 ## [![IMG-20211224-113848.jpg](https://i.postimg.cc/kGJGmMZR/IMG-20211224-113848.jpg)](https://postimg.cc/tZcpdb99)
+
+## Podemos usar un grafico de puntos:
+## [![IMG-20211224-132257.jpg](https://i.postimg.cc/7L47YRFT/IMG-20211224-132257.jpg)](https://postimg.cc/YvXjddqp)
+
+## 
