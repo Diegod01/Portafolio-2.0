@@ -4,3 +4,6 @@
 
 ## En este sector podemos seleccionar y editar las columnas 
 ## [![IMG-20211224-175139.jpg](https://i.postimg.cc/9MLCdK8S/IMG-20211224-175139.jpg)](https://postimg.cc/G8TWr71J)
+
+## Podemos visualizar rápido datos cuantitativos:
+## [![IMG-20211224-175351.jpg](https://i.postimg.cc/XqTMxbw2/IMG-20211224-175351.jpg)](https://postimg.cc/rRCYF7ZW)
