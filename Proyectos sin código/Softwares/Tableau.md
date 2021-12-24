@@ -44,3 +44,6 @@
 
 ## Un grafico entre la relación de la cantidad y el año:
 ## [![IMG-20211224-140157.jpg](https://i.postimg.cc/3xhb0mc4/IMG-20211224-140157.jpg)](https://postimg.cc/7fBNpGDw)
+
+## Grafico de rectángulos:
+## [![IMG-20211224-140536.jpg](https://i.postimg.cc/3rGwK000/IMG-20211224-140536.jpg)](https://postimg.cc/yWVKjdP7)
