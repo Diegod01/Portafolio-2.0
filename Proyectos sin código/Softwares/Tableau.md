@@ -11,3 +11,6 @@
 
 ## O podemos verlo de mayor a menor:
 ## [![IMG-20211224-113644.jpg](https://i.postimg.cc/L53PtbdL/IMG-20211224-113644.jpg)](https://postimg.cc/CnddYJxx)
+
+## Otro forma de ver las categorías es poner categorías generales y ubicar las películas que entran en cada una:
+## [![IMG-20211224-113848.jpg](https://i.postimg.cc/kGJGmMZR/IMG-20211224-113848.jpg)](https://postimg.cc/tZcpdb99)
