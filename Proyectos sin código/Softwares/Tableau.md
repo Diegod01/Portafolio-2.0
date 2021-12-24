@@ -34,3 +34,7 @@
 
 ## Gráficos de burbuja:
 ## [![IMG-20211224-134641.jpg](https://i.postimg.cc/XqkW0QC3/IMG-20211224-134641.jpg)](https://postimg.cc/rRs31GjY)
+
+## Podemos usar gráficos para ver las ganancias en distintos años:
+## [![IMG-20211224-135105.jpg](https://i.postimg.cc/bY73tkB0/IMG-20211224-135105.jpg)](https://postimg.cc/8sbR8JDs)
+
