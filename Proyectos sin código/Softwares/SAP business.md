@@ -6,10 +6,10 @@
 ## Podemos ver reportes y negociaciones 
 ## [![IMG-20211227-135050.jpg](https://i.postimg.cc/rsyjDk18/IMG-20211227-135050.jpg)](https://postimg.cc/N9VmnZCV)
 
-##
-##
+## En SAP tenemos la posibilidad de contactar a compañeros de trabajo sin necesidad de otros medios que perjudiquen la productividad o el flujo de trabajo:
+## [![IMG-20211227-152836.jpg](https://i.postimg.cc/GtcR9HgH/IMG-20211227-152836.jpg)](https://postimg.cc/qhZS5MTT)
 
-##
+## 
 ##
 
 ##
