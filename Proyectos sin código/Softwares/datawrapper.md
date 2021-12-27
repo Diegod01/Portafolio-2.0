@@ -11,8 +11,14 @@
 ## Gráfico de barras:
 ## [![IMG-20211226-214031.jpg](https://i.postimg.cc/0jdfDdFn/IMG-20211226-214031.jpg)](https://postimg.cc/bSrkjbzS)
 
-## Gráfico de barras dividida:
+## Gráfico de barras divididas:
 ## [![IMG-20211227-135407.jpg](https://i.postimg.cc/K8TbbJL8/IMG-20211227-135407.jpg)](https://postimg.cc/cvd2M7Xp)
 
 ## Gráfico de barras apiladas:
 ## [![IMG-20211227-135617.jpg](https://i.postimg.cc/4dP75JNq/IMG-20211227-135617.jpg)](https://postimg.cc/9R4QXH9Y)
+
+## Una grafica de área:
+## [![IMG-20211227-140006.jpg](https://i.postimg.cc/ydxgvMgN/IMG-20211227-140006.jpg)](https://postimg.cc/ZBk5qDLk)
+
+## 
+## 
