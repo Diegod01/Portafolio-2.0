@@ -4,3 +4,6 @@
 
 ## Datawrapper nos verifica los datos, mostrando los números en azúl, las fechas en verde, el texto en negro, en rojo indica la falta de datos.
 ## [![IMG-20211226-213242.jpg](https://i.postimg.cc/nLL6LNy2/IMG-20211226-213242.jpg)](https://postimg.cc/dhzWHNtZ)
+
+## Las visualizaciones que podemos hacer son:
+## [![IMG-20211226-213721.jpg](https://i.postimg.cc/59pt0QkS/IMG-20211226-213721.jpg)](https://postimg.cc/V5rwZvwJ)
