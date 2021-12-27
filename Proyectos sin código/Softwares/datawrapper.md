@@ -7,3 +7,6 @@
 
 ## Las visualizaciones que podemos hacer son:
 ## [![IMG-20211226-213721.jpg](https://i.postimg.cc/59pt0QkS/IMG-20211226-213721.jpg)](https://postimg.cc/V5rwZvwJ)
+
+## Gráfica de barras:
+## [![IMG-20211226-214031.jpg](https://i.postimg.cc/0jdfDdFn/IMG-20211226-214031.jpg)](https://postimg.cc/bSrkjbzS)
