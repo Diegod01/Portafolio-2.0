@@ -25,3 +25,6 @@
 
 ## Gráfico de anillo: 
 ## [![IMG-20211227-140425.jpg](https://i.postimg.cc/x1KNpG6W/IMG-20211227-140425.jpg)](https://postimg.cc/PC5qPDs4)
+
+## Gráfico de círculos múltiples:
+## [![IMG-20211227-140558.jpg](https://i.postimg.cc/L6yHVxKy/IMG-20211227-140558.jpg)](https://postimg.cc/JGkVrchJ)
