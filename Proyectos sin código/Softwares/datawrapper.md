@@ -28,3 +28,6 @@
 
 ## Gráfico de círculos múltiples:
 ## [![IMG-20211227-140558.jpg](https://i.postimg.cc/L6yHVxKy/IMG-20211227-140558.jpg)](https://postimg.cc/JGkVrchJ)
+
+## Dato extra, en Datawrapper hay una opción para daltónicos:
+## [![IMG-20211227-141006.jpg](https://i.postimg.cc/tCCHMF9Y/IMG-20211227-141006.jpg)](https://postimg.cc/XXhhZGGb)
