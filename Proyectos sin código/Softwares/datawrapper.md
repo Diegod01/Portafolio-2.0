@@ -20,5 +20,5 @@
 ## Una grafica de área:
 ## [![IMG-20211227-140006.jpg](https://i.postimg.cc/ydxgvMgN/IMG-20211227-140006.jpg)](https://postimg.cc/ZBk5qDLk)
 
-## 
-## 
+## Grafico de torta:
+## [![IMG-20211227-140311.jpg](https://i.postimg.cc/x1WNtxGG/IMG-20211227-140311.jpg)](https://postimg.cc/LJ3ssVbh)
