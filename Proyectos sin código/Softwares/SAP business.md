@@ -3,8 +3,8 @@
 ## El dataset que usaremos es este:
 ## [![IMG-20211227-134457.jpg](https://i.postimg.cc/t44RHhk1/IMG-20211227-134457.jpg)](https://postimg.cc/TpBvV5ZG)
 
-## 
-##
+## Podemos ver reportes y negociaciones 
+## [![IMG-20211227-135050.jpg](https://i.postimg.cc/rsyjDk18/IMG-20211227-135050.jpg)](https://postimg.cc/N9VmnZCV)
 
 ##
 ##
