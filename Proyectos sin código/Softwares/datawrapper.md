@@ -20,5 +20,8 @@
 ## Una grafica de área:
 ## [![IMG-20211227-140006.jpg](https://i.postimg.cc/ydxgvMgN/IMG-20211227-140006.jpg)](https://postimg.cc/ZBk5qDLk)
 
-## Grafico de torta:
+## Grafico circular:
 ## [![IMG-20211227-140311.jpg](https://i.postimg.cc/x1WNtxGG/IMG-20211227-140311.jpg)](https://postimg.cc/LJ3ssVbh)
+
+## Gráfico de anillo: 
+## [![IMG-20211227-140425.jpg](https://i.postimg.cc/x1KNpG6W/IMG-20211227-140425.jpg)](https://postimg.cc/PC5qPDs4)
