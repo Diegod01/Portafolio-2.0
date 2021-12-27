@@ -9,8 +9,8 @@
 ## En SAP tenemos la posibilidad de contactar a compañeros de trabajo sin necesidad de otros medios que perjudiquen la productividad o el flujo de trabajo:
 ## [![IMG-20211227-152836.jpg](https://i.postimg.cc/GtcR9HgH/IMG-20211227-152836.jpg)](https://postimg.cc/qhZS5MTT)
 
-## 
-##
+## Podemos realizar llamadas con clientes para conocer lo que estos necesitan y agendarlos para enviárselos:
+## [![IMG-20211227-153158.jpg](https://i.postimg.cc/4dbQ1pj5/IMG-20211227-153158.jpg)](https://postimg.cc/HcnMY8Yc)
 
 ##
 ##
