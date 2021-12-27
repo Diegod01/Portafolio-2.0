@@ -15,4 +15,5 @@
 ## Podemos realizar dashboards:
 ## [![IMG-20211227-153108.jpg](https://i.postimg.cc/zGymPfzW/IMG-20211227-153108.jpg)](https://postimg.cc/pmM1mRnX)
 
-## Y especificar lo que queramos ver, en
+## Y especificar lo que queramos ver, en este caso ADA Technologies
+## [![IMG-20211227-153118.jpg](https://i.postimg.cc/rsLTW2xb/IMG-20211227-153118.jpg)](https://postimg.cc/xJgBD7sy)
