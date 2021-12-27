@@ -12,5 +12,7 @@
 ## Podemos realizar llamadas con clientes para conocer lo que estos necesitan y agendarlos para enviárselos:
 ## [![IMG-20211227-153158.jpg](https://i.postimg.cc/4dbQ1pj5/IMG-20211227-153158.jpg)](https://postimg.cc/HcnMY8Yc)
 
-##
-##
+## Podemos realizar dashboards:
+## [![IMG-20211227-153108.jpg](https://i.postimg.cc/zGymPfzW/IMG-20211227-153108.jpg)](https://postimg.cc/pmM1mRnX)
+
+## Y especificar lo que queramos ver, en
