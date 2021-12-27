@@ -20,3 +20,6 @@
 
 ## Podemos ver el flujos del ciclo de ventas:
 ## [![IMG-20211227-153233.jpg](https://i.postimg.cc/R0z2XLN6/IMG-20211227-153233.jpg)](https://postimg.cc/QF06M5gh)
+
+## Podemos ver un pronóstico de flujo de efectivo, predice 6 meses en el futuro y da un nivel de certeza. Se muestra que los gastos en los próximos meses superar los montos por recibir:
+## [![IMG-20211227-153302.jpg](https://i.postimg.cc/yNgXgMV0/IMG-20211227-153302.jpg)](https://postimg.cc/06vJhHKN)
