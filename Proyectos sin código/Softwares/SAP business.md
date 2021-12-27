@@ -17,3 +17,6 @@
 
 ## Y especificar lo que queramos ver, en este caso ADA Technologies
 ## [![IMG-20211227-153118.jpg](https://i.postimg.cc/rsLTW2xb/IMG-20211227-153118.jpg)](https://postimg.cc/xJgBD7sy)
+
+## Podemos ver el flujos del ciclo de ventas:
+## [![IMG-20211227-153233.jpg](https://i.postimg.cc/R0z2XLN6/IMG-20211227-153233.jpg)](https://postimg.cc/QF06M5gh)
