@@ -8,5 +8,11 @@
 ## Las visualizaciones que podemos hacer son:
 ## [![IMG-20211226-213721.jpg](https://i.postimg.cc/59pt0QkS/IMG-20211226-213721.jpg)](https://postimg.cc/V5rwZvwJ)
 
-## Gráfica de barras:
+## Gráfico de barras:
 ## [![IMG-20211226-214031.jpg](https://i.postimg.cc/0jdfDdFn/IMG-20211226-214031.jpg)](https://postimg.cc/bSrkjbzS)
+
+## Gráfico de barras dividida:
+## [![IMG-20211227-135407.jpg](https://i.postimg.cc/K8TbbJL8/IMG-20211227-135407.jpg)](https://postimg.cc/cvd2M7Xp)
+
+## Gráfico de barras apiladas:
+## [![IMG-20211227-135617.jpg](https://i.postimg.cc/4dP75JNq/IMG-20211227-135617.jpg)](https://postimg.cc/9R4QXH9Y)
