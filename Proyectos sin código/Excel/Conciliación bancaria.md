@@ -5,5 +5,5 @@
 ## Cargamos el dataset de el banco:
 ## [![IMG-20211228-203401.jpg](https://i.postimg.cc/mDPxhBdC/IMG-20211228-203401.jpg)](https://postimg.cc/mzWp5fWg)
 
-## Iniciamos la conciliación:
+## Verificamos los datos y iniciamos la conciliación:
 ## [![IMG-20211228-203524.jpg](https://i.postimg.cc/59H3K6Y8/IMG-20211228-203524.jpg)](https://postimg.cc/G9CGH3jp)
