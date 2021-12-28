@@ -11,5 +11,11 @@
 ## Colocamos el saldo en todas las filas:
 ## [![IMG-20211228-153355.jpg](https://i.postimg.cc/wxNnxQgW/IMG-20211228-153355.jpg)](https://postimg.cc/RqMgXf3f)
 
+## Cuando ingresamos un egreso automáticamente cambia el saldo:
+## [![IMG-20211228-153516.jpg](https://i.postimg.cc/m2bVxYD1/IMG-20211228-153516.jpg)](https://postimg.cc/PNR1Y81d)
+
+##
+##
+
 ##
 ##
