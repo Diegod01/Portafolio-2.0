@@ -11,8 +11,8 @@
 ## Vemos que tenemos 289 registros de la empresa y 297 del banco:
 ## [![IMG-20211228-204206.jpg](https://i.postimg.cc/jq6Jq71H/IMG-20211228-204206.jpg)](https://postimg.cc/PNxq2PTJ)
 
-## 
-##
+## Si especificamos cualquier registro podemos ver si está conciliado con el banco, en este caso hay una conciliación:
+## [![IMG-20211228-204453.jpg](https://i.postimg.cc/PfZZ9ch5/IMG-20211228-204453.jpg)](https://postimg.cc/4nfmhWmD)
 
 ##
 ##
