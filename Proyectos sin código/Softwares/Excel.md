@@ -14,8 +14,8 @@
 ## Cuando ingresamos un egreso automáticamente cambia el saldo:
 ## [![IMG-20211228-153516.jpg](https://i.postimg.cc/m2bVxYD1/IMG-20211228-153516.jpg)](https://postimg.cc/PNR1Y81d)
 
-##
-##
+## Ejemplo terminado
+## [![IMG-20211228-153704.jpg](https://i.postimg.cc/qqdrBmYT/IMG-20211228-153704.jpg)](https://postimg.cc/S2V3DGkT)
 
 ##
 ##
