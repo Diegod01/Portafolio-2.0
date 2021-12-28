@@ -14,8 +14,7 @@
 ## Si especificamos cualquier registro podemos ver si está conciliado con el banco, en este caso hay una conciliación:
 ## [![IMG-20211228-204453.jpg](https://i.postimg.cc/PfZZ9ch5/IMG-20211228-204453.jpg)](https://postimg.cc/4nfmhWmD)
 
-##
-##
-
+## De todos los registros vemos que hay 282 coincidencias
+## [![IMG-20211228-204729.jpg](https://i.postimg.cc/xCqrqMf6/IMG-20211228-204729.jpg)](https://postimg.cc/ygqpbJSR)
 ##
 ##
