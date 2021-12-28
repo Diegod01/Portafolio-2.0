@@ -7,3 +7,9 @@
 
 ## Ponemos la fórmula que representa: Saldo inicial más ingresos menos egresos:
 ## [![IMG-20211228-153023.jpg](https://i.postimg.cc/rsG4nPWZ/IMG-20211228-153023.jpg)](https://postimg.cc/BP6ttNm2)
+
+## Colocamos el saldo en todas las filas:
+## [![IMG-20211228-153355.jpg](https://i.postimg.cc/wxNnxQgW/IMG-20211228-153355.jpg)](https://postimg.cc/RqMgXf3f)
+
+##
+##
