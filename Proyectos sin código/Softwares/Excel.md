@@ -17,5 +17,5 @@
 ## Ejemplo terminado
 ## [![IMG-20211228-153704.jpg](https://i.postimg.cc/qqdrBmYT/IMG-20211228-153704.jpg)](https://postimg.cc/S2V3DGkT)
 
-##
-##
+## Ya tenemos nuestro sistema contable, podemos seguir expandiendolo tanto como queramos
+## [![IMG-20211228-153828.jpg](https://i.postimg.cc/L5mW0Gwn/IMG-20211228-153828.jpg)](https://postimg.cc/jwkvD3sb)
