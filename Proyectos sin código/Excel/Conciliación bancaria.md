@@ -20,5 +20,8 @@
 ## Hay registros de la empresa que no se concilian con el banco:
 ## [![IMG-20211228-213312.jpg](https://i.postimg.cc/52fFmbtv/IMG-20211228-213312.jpg)](https://postimg.cc/hf3jDFTP)
 
-##
-##
+## Visualizamos el registro:
+## [![IMG-20211228-213405.jpg](https://i.postimg.cc/GtkHk5wq/IMG-20211228-213405.jpg)](https://postimg.cc/GTmLRzpy)
+
+## Finalmente, lo pasamos a una hoja de excel
+## 
