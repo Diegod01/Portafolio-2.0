@@ -24,4 +24,4 @@
 ## [![IMG-20211228-213405.jpg](https://i.postimg.cc/GtkHk5wq/IMG-20211228-213405.jpg)](https://postimg.cc/GTmLRzpy)
 
 ## Finalmente, lo pasamos a una hoja de excel
-## 
+## [![IMG-20211228-213405.jpg](https://i.postimg.cc/GtkHk5wq/IMG-20211228-213405.jpg)](https://postimg.cc/GTmLRzpy)
