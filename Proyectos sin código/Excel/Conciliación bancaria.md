@@ -16,5 +16,9 @@
 
 ## De todos los registros vemos que hay 282 coincidencias
 ## [![IMG-20211228-204729.jpg](https://i.postimg.cc/xCqrqMf6/IMG-20211228-204729.jpg)](https://postimg.cc/ygqpbJSR)
+
+## Hay registros de la empresa que no se concilian con el banco:
+## [![IMG-20211228-213312.jpg](https://i.postimg.cc/52fFmbtv/IMG-20211228-213312.jpg)](https://postimg.cc/hf3jDFTP)
+
 ##
 ##
