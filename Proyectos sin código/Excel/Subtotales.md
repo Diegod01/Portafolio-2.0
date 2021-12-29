@@ -6,8 +6,8 @@
 ## Configuramos para activar los subtotales
 ## [![IMG-20211229-191554.jpg](https://i.postimg.cc/BngNKj2j/IMG-20211229-191554.jpg)](https://postimg.cc/188px5CS)
 
-##
-##
+## En los cuadros marcados con naranja estan los resumenes
+## [![IMG-20211229-192053.jpg](https://i.postimg.cc/3wfs2S20/IMG-20211229-192053.jpg)](https://postimg.cc/p98cHBGP)
 
 ##
 ## 
