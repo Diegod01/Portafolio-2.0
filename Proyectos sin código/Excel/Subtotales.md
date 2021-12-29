@@ -9,5 +9,8 @@
 ## En los cuadros marcados con naranja estan los resumenes
 ## [![IMG-20211229-192053.jpg](https://i.postimg.cc/3wfs2S20/IMG-20211229-192053.jpg)](https://postimg.cc/p98cHBGP)
 
+## Para visualizarlo mejor utilizamos colores:
+## [![IMG-20211229-192238.jpg](https://i.postimg.cc/j5JFPssB/IMG-20211229-192238.jpg)](https://postimg.cc/WFT8Pcq7)
+
+## O podemos ver a los vendedores por separado:
 ##
-## 
