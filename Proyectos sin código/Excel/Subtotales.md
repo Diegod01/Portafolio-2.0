@@ -13,4 +13,4 @@
 ## [![IMG-20211229-192238.jpg](https://i.postimg.cc/j5JFPssB/IMG-20211229-192238.jpg)](https://postimg.cc/WFT8Pcq7)
 
 ## O podemos ver a los vendedores por separado:
-##
+## [![IMG-20211229-192219.jpg](https://i.postimg.cc/1R78fsgy/IMG-20211229-192219.jpg)](https://postimg.cc/s1SjLF9L)
