@@ -13,8 +13,8 @@
 ## Para el % de ventas acumuladas usamos esta fórmula:
 ## [![IMG-20211230-191533.jpg](https://i.postimg.cc/CLfP0mXF/IMG-20211230-191533.jpg)](https://postimg.cc/GHdJJJbN)
 
-##
-##
+## Para el rango establecemos tres categorías con letras, A, B y C. A si es más de 80%, B si es más de 95% y C si es más de 100%
+## [![IMG-20211230-191715.jpg](https://i.postimg.cc/J7yVy3vF/IMG-20211230-191715.jpg)](https://postimg.cc/dDKSpCqR)
 
 ##
 ##
