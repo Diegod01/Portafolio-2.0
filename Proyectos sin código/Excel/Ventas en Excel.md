@@ -8,7 +8,7 @@
 ## [![IMG-20211230-190646.jpg](https://i.postimg.cc/Kzzxz6hk/IMG-20211230-190646.jpg)](https://postimg.cc/Ff22CnRN)
 
 ## Para las ventas acumuladas usamos esta fórmula:
-## [![IMG-20211230-190646.jpg](https://i.postimg.cc/Kzzxz6hk/IMG-20211230-190646.jpg)](https://postimg.cc/Ff22CnRN)
+## [![IMG-20211230-191011.jpg](https://i.postimg.cc/nrfsDVFS/IMG-20211230-191011.jpg)](https://postimg.cc/9R1F3hqy)
 
 ##
 ##
