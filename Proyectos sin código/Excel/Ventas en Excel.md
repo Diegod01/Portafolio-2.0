@@ -4,8 +4,8 @@
 ## Crearemos un nuevo dataset para analizar las ventas:
 ## [![IMG-20211230-190327.jpg](https://i.postimg.cc/SQwc7VPz/IMG-20211230-190327.jpg)](https://postimg.cc/nMGsnKpH)
 
-##
-##
+## Luego de copiar la fila de productos y usamos esta fórmula para las ventas:
+## [![IMG-20211230-190646.jpg](https://i.postimg.cc/Kzzxz6hk/IMG-20211230-190646.jpg)](https://postimg.cc/Ff22CnRN)
 
 ##
 ##
