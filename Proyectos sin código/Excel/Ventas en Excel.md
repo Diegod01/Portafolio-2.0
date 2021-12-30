@@ -15,6 +15,7 @@
 
 ## Para el rango establecemos tres categorías con letras, A, B y C. A si es más de 80%, B si es más de 95% y C si es más de 100%
 ## [![IMG-20211230-191715.jpg](https://i.postimg.cc/J7yVy3vF/IMG-20211230-191715.jpg)](https://postimg.cc/dDKSpCqR)
+## [![IMG-20211230-191934.jpg](https://i.postimg.cc/XJCLWv1s/IMG-20211230-191934.jpg)](https://postimg.cc/JDRZcRLX)
 
 ##
 ##
