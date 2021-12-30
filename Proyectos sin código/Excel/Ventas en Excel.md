@@ -7,6 +7,18 @@
 ## Luego de copiar la fila de productos y usamos esta fórmula para las ventas:
 ## [![IMG-20211230-190646.jpg](https://i.postimg.cc/Kzzxz6hk/IMG-20211230-190646.jpg)](https://postimg.cc/Ff22CnRN)
 
+## Para las ventas acumuladas usamos esta fórmula:
+## [![IMG-20211230-190646.jpg](https://i.postimg.cc/Kzzxz6hk/IMG-20211230-190646.jpg)](https://postimg.cc/Ff22CnRN)
+
+##
+##
+
+##
+##
+
+##
+##
+
 ##
 ##
 
