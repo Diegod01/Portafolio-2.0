@@ -2,7 +2,7 @@
 ## El problema será este:
 ## [![Screenshot-20211230-112009-You-Tube.jpg](https://i.postimg.cc/sgfvmW2c/Screenshot-20211230-112009-You-Tube.jpg)](https://postimg.cc/QHP8xH19)
 
-## Seleccionamos la función objetivo
+## Seleccionamos la función objetivo, que son los precios:
 ## [![Screenshot-20211230-112034-You-Tube.jpg](https://i.postimg.cc/tRrf7Qx4/Screenshot-20211230-112034-You-Tube.jpg)](https://postimg.cc/3Wv9bq1s)
 
 ##
