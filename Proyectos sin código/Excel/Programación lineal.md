@@ -19,5 +19,3 @@
 ## Finalmente, vemos que para maximizar la entrega de publicidad el repartidor debe entregar 150 de Metro y 250 de Yumbo:
 ## [![Screenshot-20211230-113450-You-Tube.jpg](https://i.postimg.cc/c1gxsmv2/Screenshot-20211230-113450-You-Tube.jpg)](https://postimg.cc/pyvbCKYJ)
 
-#:
-##
