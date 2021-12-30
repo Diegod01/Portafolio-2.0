@@ -16,7 +16,7 @@
 ## Preparamos las variables 'X' y 'Y'
 ## [![Screenshot-20211230-112230-You-Tube.jpg](https://i.postimg.cc/Sx0pNFBz/Screenshot-20211230-112230-You-Tube.jpg)](https://postimg.cc/gnK7N5kY)
 
-## Finalmente, vemos que para maximizar la entrega de publicidad el repartidor debe entregar 150 de Yumbo y 
+## Finalmente, vemos que para maximizar la entrega de publicidad el repartidor debe entregar 150 de Yumbo y 250 de metro:
 ## [![Screenshot-20211230-113450-You-Tube.jpg](https://i.postimg.cc/c1gxsmv2/Screenshot-20211230-113450-You-Tube.jpg)](https://postimg.cc/pyvbCKYJ)
 
 ##
