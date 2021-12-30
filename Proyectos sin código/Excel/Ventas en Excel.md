@@ -17,8 +17,8 @@
 ## [![IMG-20211230-191715.jpg](https://i.postimg.cc/J7yVy3vF/IMG-20211230-191715.jpg)](https://postimg.cc/dDKSpCqR)
 ## [![IMG-20211230-191934.jpg](https://i.postimg.cc/XJCLWv1s/IMG-20211230-191934.jpg)](https://postimg.cc/JDRZcRLX)
 
-##
-##
+## Realizamos gráficas para visualizar mejor:
+## [![IMG-20211230-192157.jpg](https://i.postimg.cc/7h4WQ7P3/IMG-20211230-192157.jpg)](https://postimg.cc/ygfjDDZx)
 
 ##
 ##
