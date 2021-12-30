@@ -12,8 +12,8 @@
 ## Buscamos la solución del problema de programación lineal y Solver nos muestra la solución:
 ## [![Screenshot-20211230-112217-You-Tube.jpg](https://i.postimg.cc/5tCYQVyd/Screenshot-20211230-112217-You-Tube.jpg)](https://postimg.cc/v1GHCC53)
 
-##
-##
+## 
+## [![Screenshot-20211230-112230-You-Tube.jpg](https://i.postimg.cc/Sx0pNFBz/Screenshot-20211230-112230-You-Tube.jpg)](https://postimg.cc/gnK7N5kY)
 
 ##
 ##
