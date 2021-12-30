@@ -10,8 +10,8 @@
 ## Para las ventas acumuladas usamos esta fórmula:
 ## [![IMG-20211230-191336.jpg](https://i.postimg.cc/dV30DZRt/IMG-20211230-191336.jpg)](https://postimg.cc/k2rCp4hk)
 
-##
-##
+## Para el % de ventas acumuladas usamos esta fórmula:
+## [![IMG-20211230-191533.jpg](https://i.postimg.cc/CLfP0mXF/IMG-20211230-191533.jpg)](https://postimg.cc/GHdJJJbN)
 
 ##
 ##
