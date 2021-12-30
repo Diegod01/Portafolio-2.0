@@ -6,6 +6,7 @@
 ## [![Screenshot-20211230-112034-You-Tube.jpg](https://i.postimg.cc/tRrf7Qx4/Screenshot-20211230-112034-You-Tube.jpg)](https://postimg.cc/3Wv9bq1s)
 
 ## Colocamos las restricciones:
+## [![Screenshot-20211230-112142-You-Tube.jpg](https://i.postimg.cc/W1SSY0wb/Screenshot-20211230-112142-You-Tube.jpg)](https://postimg.cc/K1knRkWd)
 ## [![Screenshot-20211230-112122-You-Tube.jpg](https://i.postimg.cc/h4HYV8pk/Screenshot-20211230-112122-You-Tube.jpg)](https://postimg.cc/Z0xjSNkH)
 
 ##
