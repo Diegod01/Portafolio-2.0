@@ -9,8 +9,8 @@
 ## [![IMG-20220101-172603.jpg](https://i.postimg.cc/rmngFPRk/IMG-20220101-172603.jpg)](https://postimg.cc/34G2t9ZS)
 
 
-##
-##
+## Podemos ver el tipo de dato de la columna y editarlo:
+## [![IMG-20220101-172840.jpg](https://i.postimg.cc/h4N6LXhq/IMG-20220101-172840.jpg)](https://postimg.cc/Jtcpm4bT)
 
 ##
 ##
