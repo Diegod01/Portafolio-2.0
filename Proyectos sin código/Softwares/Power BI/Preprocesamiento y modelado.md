@@ -12,8 +12,8 @@
 ## Podemos ver el tipo de dato de la columna y editarlo:
 ## [![IMG-20220101-172840.jpg](https://i.postimg.cc/h4N6LXhq/IMG-20220101-172840.jpg)](https://postimg.cc/Jtcpm4bT)
 
-##
-##
+## Podemos elegir que variables ver y cuáles ocultar:
+## [![IMG-20220101-173040.jpg](https://i.postimg.cc/Dwr9y7v3/IMG-20220101-173040.jpg)](https://postimg.cc/HrLZ6D86)
 
 ##
 ##
