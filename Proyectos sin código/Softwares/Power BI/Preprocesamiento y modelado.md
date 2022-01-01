@@ -15,5 +15,11 @@
 ## Podemos elegir que variables ver y cuáles ocultar:
 ## [![IMG-20220101-173040.jpg](https://i.postimg.cc/Dwr9y7v3/IMG-20220101-173040.jpg)](https://postimg.cc/HrLZ6D86)
 
+## Podemos ordenar los datos de forma ascendente o descendente, también elegir que filas ver:
+## [![IMG-20220101-173213.jpg](https://i.postimg.cc/VvM8qn8d/IMG-20220101-173213.jpg)](https://postimg.cc/q6kS0tgT)
+
+##
+##
+
 ##
 ##
