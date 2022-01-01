@@ -21,5 +21,5 @@
 ## Podemos seleccionar una palabra y en el dataset apareceran los datos que incluyan está palabra:
 ## [![IMG-20220101-173436.jpg](https://i.postimg.cc/xdbtTRyJ/IMG-20220101-173436.jpg)](https://postimg.cc/NyB1dRnB)
 
-##
-##
+## Podemos elegir el formato y el número de decimales en los datos:
+## [![IMG-20220101-173637.jpg](https://i.postimg.cc/fRSrJDMR/IMG-20220101-173637.jpg)](https://postimg.cc/QFsbzLB2)
