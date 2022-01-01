@@ -18,8 +18,8 @@
 ## Podemos ordenar los datos de forma ascendente o descendente, también elegir que filas ver:
 ## [![IMG-20220101-173213.jpg](https://i.postimg.cc/VvM8qn8d/IMG-20220101-173213.jpg)](https://postimg.cc/q6kS0tgT)
 
-##
-##
+## Podemos seleccionar una palabra y en el dataset apareceran los datos que incluyan está palabra:
+## [![IMG-20220101-173436.jpg](https://i.postimg.cc/xdbtTRyJ/IMG-20220101-173436.jpg)](https://postimg.cc/NyB1dRnB)
 
 ##
 ##
