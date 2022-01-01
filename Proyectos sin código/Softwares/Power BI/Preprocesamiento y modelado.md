@@ -5,8 +5,8 @@
 ## Tenemos instantáneamente múltiples opciones:
 ## [![IMG-20220101-171757.jpg](https://i.postimg.cc/1tpYmHcR/IMG-20220101-171757.jpg)](https://postimg.cc/WF17S0Hx)
 
-##
-##
+## Una opción muy útil es la de poder cambiar el nombre de las filas en toda la columna:
+## [![IMG-20220101-172603.jpg](https://i.postimg.cc/rmngFPRk/IMG-20220101-172603.jpg)](https://postimg.cc/34G2t9ZS)
 
 
 ##
