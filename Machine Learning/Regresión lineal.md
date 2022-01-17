@@ -1,4 +1,4 @@
-## Vamos a crear una regresión lineal para predecir la venta de paraguas en días de lluvia:
+## Vamos a crear una regresión lineal para predecir la venta de paraguas en días de lluvia, el set de datos tiene el mes, la cantidad de lluvia en milímetros y la ventas: 
 ## [![IMG-20220117-152438.png](https://i.postimg.cc/t4HBffqY/IMG-20220117-152438.png)](https://postimg.cc/dL4RZ5TY)
 
 ## Seleccionamos análisis de datos:
