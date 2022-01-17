@@ -1,6 +1,2 @@
-# Bienvenido a mi portafolio de proyectos, esta es una guía para ayudarte.
-## Debes clickear en el botón 'view code' o 'ver código' en celular, si estás en PC apareceran las carpetas de "proyectos con código" y "proyectos sin código"
-
-## En la careta 'Dashborads y reportes' tengo proyectos dónde muestro los reportes que he hecho.
-
-## En la carpeta 'EmpresasUY' tengo el proyecto dónde hago un análisis de empresas de Uruguay.
+# Welcome to my portfolio of projects, this is a guide to help you.
+## You must click on the 'view code' on mobile, if you are on PC the "projects with code" and "projects without code" folders will appear
